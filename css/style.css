@@ -27,7 +27,7 @@ header{
     
     background-position: center;
     background-size: cover;
-    background: url(/img/full-background.png);
+    background: url("/img/full-background.png");
     height:800px;
 }
 
